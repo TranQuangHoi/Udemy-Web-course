@@ -1,7 +1,7 @@
 # Complete-Web-Developer-Manual
 
 
-All resources and notes from the Complete Web Developer in 2018: Zero to Mastery course
+All resources and notes from the Complete Web Developer in 2019: Zero to Mastery course
 
 ******************************************************************************************
 ## 1.	__Introduction__
